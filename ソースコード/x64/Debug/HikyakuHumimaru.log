@@ -1,0 +1,90 @@
+﻿  calculation.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  camera.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  fog.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  input.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  light.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  main.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  manager.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  renderer.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  sound.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  character.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  effect_generator_base.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  effect_generator_particle.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  effect_particle.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  motion.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  object.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  object_2D.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  object_3D.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  object_billboard.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  object_fade.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  object_FBX.cpp
+  コードを生成中...
+  コンパイル中...
+  object_X.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  text.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  obb.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  effect.cpp
+  enemy.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  obstacles.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  obstacles_high.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  obstacles_low.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  player.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  select.cpp
+  game_data.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  play.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  scene_game.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  scene_game_manager.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  scene_game_stageselect.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  scene_debug.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  stage_000.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  stage_001.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  stage_base.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  scene_maneger.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  コードを生成中...
+  コンパイル中...
+  scene_title.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  obstacles_tall.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  scroll.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  stage_002.cpp
+C:\Users\student\Desktop\作品\ソースコード\code\base\pch.h(12,10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  コードを生成中...
